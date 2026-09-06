@@ -1,1 +1,7 @@
+<<<<<<< HEAD
  my name is nani nen mega native gani gundello Be only kingone 
+=======
+Billa Bahubali
+
+Be only kingone 
+>>>>>>> origin
