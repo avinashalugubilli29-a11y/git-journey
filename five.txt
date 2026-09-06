@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 tinnaga kith feature add cheuskoni develop avvu 
 
 Nen avvanu na istam em chesthav nuvvu bokkalag
+=======
+tinnaga kith feature add cheuskoni develop avvu 
+>>>>>>> development
